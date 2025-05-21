@@ -1,3 +1,4 @@
+
 #pragma once
 
 #include <sstream>
@@ -111,4 +112,3 @@ private:
 
 #define RUN_TEST(tr, func) \
   tr.RunTest(func, #func)
-
